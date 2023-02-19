@@ -1,3 +1,5 @@
+// melhorar a parte de inserção de imagens 
+
 const images = [
     { 'id': '1', 'url':'../image/afro-samurai-1.jpg' },
     { 'id': '2', 'url':'../image/afro-samurai-2.jpg' },
